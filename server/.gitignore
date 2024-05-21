@@ -1,0 +1,28 @@
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+.DS_Store
+
+# Supabase
+.supabase/
+supabase/
+
+# Environment variables
+.env
+
+# Express
+build/
+coverage/
+logs/
+
+# Misc
+.vscode/
+.idea/
