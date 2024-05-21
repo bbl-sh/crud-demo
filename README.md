@@ -28,8 +28,8 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the repo**
 
    ```sh
-   git clone https://github.com/bbl/my-svelte-project.git
-   cd my-svelte-project
+   git clone https://github.com/bbl/crud-demo.git
+   cd crud-demo
    ```
 
 2. **Install dependencies**
