@@ -59,5 +59,3 @@ To deploy the backend server, you can use a hosting platform like Heroku, AWS, o
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
