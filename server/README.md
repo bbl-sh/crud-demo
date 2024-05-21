@@ -24,15 +24,7 @@ The CRUD App Backend Server is a Node.js application that provides the necessary
 - **cors**: A middleware that enables CORS with various options.
 
 ## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/crud-app-backend.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd crud-app-backend
-   ```
-3. Install the dependencies:
+1. Install the dependencies:
    ```
    pnpm install
    ```
